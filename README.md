@@ -11,3 +11,7 @@ In this article, I will show you how to use Git to clone and remote a GitHub rep
 In general (not everyone), most people when learn git basics still do not fully understand how to implement Git branching and merging in a GitHub repository. As a result, some may feel less confident when creating a new branch in a repository and then merging it.
 
 Hopefully, through this article, you will gain a better understanding of how to apply or use Git branching and merging in a GitHub repository.
+
+Step 2 — Create a repository (repo) on github website
+
+First, you can open the github website (https://www.github.com) and sign in with your github account. After that, you can click + icon in the top-right corner of the github website page, then select “New repository”. (check the image below).
