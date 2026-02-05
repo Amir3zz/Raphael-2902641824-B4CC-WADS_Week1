@@ -29,3 +29,9 @@ After selecting “New Repository”, you will be directed to the “Create a Ne
     Description: contains a description of the repository being created. This field is optional — you may fill it in or leave it blank.
 
 After that, Congratulations! You will be directed to the GitHub repository page (check the image below), where you will find information for remotely accessing the repository. Next, we will remote the repository to the local machine/computer.
+
+Step 3 — Remote the github repository from local machine using git command
+
+Focus on the terminal in VS Code. Type and follow the Git commands below to remotely connect to the repository.
+
+    First, type “git init” and press enter to Initialize a new Git repository (repo) in the current directory.
