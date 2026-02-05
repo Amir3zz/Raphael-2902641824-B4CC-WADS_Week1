@@ -30,3 +30,5 @@ Create a new folder in your local machine/computer named “test_git” (for an 
 Open your code editor (Ex: Visual Studio Code, etc). After that, open the folder that you have prepared earlier in the Visual Studio Code (VS Code), then click on the “File” menu -> “Open Folder”, and select the folder you previously created on your computer. Or, you can also drag and drop the folder directly into VS Code, and the folder will be open.
 
 If the folder (test_git) is already open in VS Code, the display will look like the image below.
+
+Next, create a new file with Markdown (.md) format in that folder (test_git folder) named “README.md” (for an example). In this tutorial, I will populate the README.md file with an article titled “Indonesia Country”, which I sourced from Wikipedia. Of course, you can fill the README.md file with any content you like. After that, don’t forget to save the file (Ctrl + S). For more details about the Markdown (.md) format, you can learn through the following link: https://www.markdownguide.org/basic-syntax/
