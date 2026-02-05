@@ -43,3 +43,21 @@ Next, create a new file with Markdown (.md) format in that folder (test_git fold
     In repositories (e.g., GitHub, GitLab), the README.md file is automatically displayed on the main page to help users understand the project quickly.
 
 Open the terminal in VS Code (Terminal -> New terminal). The terminal will then appear inside VS Code. Since my computer runs Windows Operating system, the default terminal is PowerShell. However, you can change it to your preferred terminal based on your needs.
+
+After selecting “New Repository”, you will be directed to the “Create a New Repository” page. You can fill in the details as shown in the image, then click “Create Repository” to create the repository.
+
+    Owner: indicates who owns the repository.
+
+    Slash ( / ): used to separate the repository name from the owner.
+
+    Repository name: filled with the name of your repository or project in the provided field. (Ex: learn_git_branch)
+
+    Description: contains a description of the repository being created. This field is optional — you may fill it in or leave it blank.
+
+After that, Congratulations! You will be directed to the GitHub repository page (check the image below), where you will find information for remotely accessing the repository. Next, we will remote the repository to the local machine/computer.
+
+Step 3 — Remote the github repository from local machine using git command
+
+Focus on the terminal in VS Code. Type and follow the Git commands below to remotely connect to the repository.
+
+    First, type “git init” and press enter to Initialize a new Git repository (repo) in the current directory.
