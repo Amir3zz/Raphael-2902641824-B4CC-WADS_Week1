@@ -15,3 +15,5 @@ Hopefully, through this article, you will gain a better understanding of how to 
 Step 2 — Create a repository (repo) on github website
 
 First, you can open the github website (https://www.github.com) and sign in with your github account. After that, you can click + icon in the top-right corner of the github website page, then select “New repository”. (check the image below).
+
+After selecting “New Repository”, you will be directed to the “Create a New Repository” page. You can fill in the details as shown in the image, then click “Create Repository” to create the repository.
